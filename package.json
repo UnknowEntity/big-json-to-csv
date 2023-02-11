@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "csv-write-stream": "^2.0.0",
+    "dotenv": "^16.0.3",
     "stream-chain": "^2.2.5",
     "stream-json": "^1.7.5"
   },

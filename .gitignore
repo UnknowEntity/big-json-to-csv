@@ -3,4 +3,6 @@
 /outputs
 /inputs
 
+.env
+
 package-lock.json
