@@ -50,8 +50,8 @@ dotenv.config();
     },
     (data) => {
       return data.children.map((child: any) => ({
-        type: data.name,
-        name: child,
+        Type: data.name,
+        Name: child,
       }));
     },
     //   (data) => {
