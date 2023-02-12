@@ -6,6 +6,7 @@ import { streamArray } from "stream-json/streamers/StreamArray";
 import makeCsvWriteStream from "csv-write-stream";
 import dotenv from "dotenv";
 import { getInputStream } from "./input";
+import { capitalCase } from "capital-case";
 
 dotenv.config();
 
@@ -50,7 +51,9 @@ dotenv.config();
     },
     (data) => {
       return data.children.map((child: any) => ({
-        Type: data.name,
+        Type: capitalCase(
+          (data.name as string).slice(0, data.name.indexOf(":"))
+        ),
         Name: child,
       }));
     },
