@@ -1,7 +1,8 @@
 /node_modules
 /dist
-/outputs
-/inputs
+/outputs/*-output.csv
+/inputs/*.json
+!/inputs/example.json
 
 .env
 

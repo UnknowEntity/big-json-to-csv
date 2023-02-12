@@ -1,0 +1,142 @@
+{
+  "mockup": {
+    "controls": {
+      "control": [
+        {
+          "ID": "14071",
+          "typeID": "__group__",
+          "zOrder": "74",
+          "measuredW": "281",
+          "measuredH": "184",
+          "w": "281",
+          "h": "184",
+          "x": "1425",
+          "y": "3814",
+          "properties": { "controlName": "104-scalability:observability" },
+          "children": {
+            "controls": {
+              "control": [
+                {
+                  "ID": "0",
+                  "typeID": "TextArea",
+                  "zOrder": "0",
+                  "w": "272",
+                  "h": "179",
+                  "measuredW": "200",
+                  "measuredH": "140",
+                  "x": "0",
+                  "y": "5",
+                  "properties": { "color": "16770457" }
+                },
+                {
+                  "ID": "1",
+                  "typeID": "Label",
+                  "zOrder": "1",
+                  "measuredW": "105",
+                  "measuredH": "26",
+                  "x": "18",
+                  "y": "23",
+                  "properties": { "text": "Observability", "size": "18" }
+                },
+                {
+                  "ID": "2",
+                  "typeID": "Label",
+                  "zOrder": "2",
+                  "measuredW": "197",
+                  "measuredH": "25",
+                  "x": "18",
+                  "y": "55",
+                  "properties": {
+                    "size": "17",
+                    "text": "Metrics logging and other"
+                  }
+                },
+                {
+                  "ID": "3",
+                  "typeID": "Label",
+                  "zOrder": "3",
+                  "measuredW": "192",
+                  "measuredH": "25",
+                  "x": "18",
+                  "y": "109",
+                  "properties": {
+                    "size": "17",
+                    "text": "in debugging and solving"
+                  }
+                },
+                {
+                  "ID": "4",
+                  "typeID": "Label",
+                  "zOrder": "4",
+                  "measuredW": "225",
+                  "measuredH": "25",
+                  "x": "18",
+                  "y": "137",
+                  "properties": {
+                    "size": "17",
+                    "text": "Issues when things go wrong."
+                  }
+                },
+                {
+                  "ID": "5",
+                  "typeID": "Icon",
+                  "zOrder": "5",
+                  "measuredW": "24",
+                  "measuredH": "24",
+                  "x": "257",
+                  "y": "0",
+                  "properties": {
+                    "color": "16777215",
+                    "icon": { "ID": "circle", "size": "small" }
+                  }
+                },
+                {
+                  "ID": "6",
+                  "typeID": "Icon",
+                  "zOrder": "6",
+                  "measuredW": "24",
+                  "measuredH": "24",
+                  "x": "257",
+                  "y": "0",
+                  "properties": {
+                    "color": "10027263",
+                    "icon": { "ID": "check-circle", "size": "small" }
+                  }
+                },
+                {
+                  "ID": "7",
+                  "typeID": "Label",
+                  "zOrder": "7",
+                  "measuredW": "236",
+                  "measuredH": "25",
+                  "x": "18",
+                  "y": "82",
+                  "properties": {
+                    "size": "17",
+                    "text": "observable items that can help"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "attributes": {
+      "name": "New Wireframe 1 copy 2",
+      "order": 1000006.8992828326,
+      "parentID": null,
+      "notes": ""
+    },
+    "branchID": "Master",
+    "resourceID": "4BE92169-157F-4FC5-8E20-403CBCF7A6C6",
+    "mockupH": "3429",
+    "mockupW": "1162",
+    "measuredW": "1797",
+    "measuredH": "4061",
+    "version": "1.0"
+  },
+  "groupOffset": { "x": 0, "y": 0 },
+  "dependencies": [],
+  "projectID": "file:///Users/kamranahmed/Desktop/devops%20roadmap%5C.bmpr"
+}
